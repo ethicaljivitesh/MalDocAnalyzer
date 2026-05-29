@@ -1,5 +1,6 @@
 # MalDocAnalyzer
-MalDoc Analyzer Pro — Malware Document Analysis &amp; IOC Extraction Tool. Open-source malware document analyzer for security researchers. Detects malicious macros, embedded scripts, obfuscated payloads, and IOCs in PDF, Office, and script files  
+MalDoc Analyzer Pro — Malware Document Analysis &amp; IOC Extraction Tool. Open-source malware document analyzer for security researchers. Detects malicious macros, embedded scripts, obfuscated payloads, and IOCs in PDF, Office, and script files 
+![image alt](https://github.com/ethicaljivitesh/MalDocAnalyzer/blob/233acca956f732af20f3409d2afe2768d4f8e989/maldoc%20sample%201.JPG)
 
 MalDoc Analyzer Pro is a free, open-source desktop application for malware document analysis, built for security researchers, incident responders, SOC analysts, and digital forensics professionals.
 It analyzes suspicious files — PDFs, Microsoft Office documents, scripts, and archives — and automatically extracts malicious content without requiring any external sandbox or internet connection.
