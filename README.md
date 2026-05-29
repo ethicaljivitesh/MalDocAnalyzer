@@ -6,6 +6,7 @@ It analyzes suspicious files — PDFs, Microsoft Office documents, scripts, and 
 
 [![Download MalDoc Analyzer](https://drive.google.com/file/d/1qbTr2nXIbTFg9bNzMZtXor2CEFZCRLJh/view?usp=sharing)](https://drive.google.com/file/d/1qbTr2nXIbTFg9bNzMZtXor2CEFZCRLJh/view?usp=sharing) 
 
+- 
 What It Detects
 
 VBA Macros — AutoOpen, AutoExec, Workbook_Open triggers with risk scoring
