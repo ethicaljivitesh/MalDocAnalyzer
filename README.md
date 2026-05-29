@@ -4,7 +4,7 @@ MalDoc Analyzer Pro — Malware Document Analysis &amp; IOC Extraction Tool. Ope
 MalDoc Analyzer Pro is a free, open-source desktop application for malware document analysis, built for security researchers, incident responders, SOC analysts, and digital forensics professionals.
 It analyzes suspicious files — PDFs, Microsoft Office documents, scripts, and archives — and automatically extracts malicious content without requiring any external sandbox or internet connection.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/username/repository) 
+[![Download](https://drive.google.com/file/d/1qbTr2nXIbTFg9bNzMZtXor2CEFZCRLJh/view?usp=sharing)](https://github.com/username/repository) 
 
 What It Detects
 
