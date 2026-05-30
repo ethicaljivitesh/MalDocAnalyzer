@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""
-╔══════════════════════════════════════════════════════════════════╗
-║         MALWARE DOCUMENT ANALYZER - Security Research Tool       ║
-║         For Malware Analysis & Digital Forensics Use Only        ║
-╚══════════════════════════════════════════════════════════════════╝
-"""
 
 import sys
 import os
